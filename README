@@ -1,0 +1,9 @@
+Description
+  A bash script for Ubuntu to install cgit(A hyperfast web frontend for git repositories written in C).
+
+cgit
+  - https://git.zx2c4.com/cgit
+  - https://github.com/woodsts/cgit
+
+cgitrc.5.txt
+  Runtime configuration for cgit as a manual 
